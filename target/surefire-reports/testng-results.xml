@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-26T10:44:21Z" name="Suite" finished-at="2024-10-26T10:44:28Z" duration-ms="7257">
+    <groups>
+    </groups>
+    <test started-at="2024-10-26T10:44:21Z" name="Test" finished-at="2024-10-26T10:44:28Z" duration-ms="7257">
+      <class name="com_jenkins_serires.DemoTest">
+        <test-method signature="runDemo()[pri:0, instance:com_jenkins_serires.DemoTest@16612a51]" started-at="2024-10-26T16:14:21Z" name="runDemo" finished-at="2024-10-26T16:14:21Z" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runDemo -->
+      </class> <!-- com_jenkins_serires.DemoTest -->
+      <class name="com_jenkins_serires.JesusTest">
+        <test-method signature="runJesus()[pri:0, instance:com_jenkins_serires.JesusTest@78fa769e]" started-at="2024-10-26T16:14:21Z" name="runJesus" finished-at="2024-10-26T16:14:21Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runJesus -->
+      </class> <!-- com_jenkins_serires.JesusTest -->
+      <class name="com_jenkins_serires.KindTest">
+        <test-method signature="runKind()[pri:0, instance:com_jenkins_serires.KindTest@54e041a4]" started-at="2024-10-26T16:14:21Z" name="runKind" finished-at="2024-10-26T16:14:21Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runKind -->
+      </class> <!-- com_jenkins_serires.KindTest -->
+      <class name="com_jenkins_serires.SampleTest">
+        <test-method signature="runTest1()[pri:0, instance:com_jenkins_serires.SampleTest@74287ea3]" started-at="2024-10-26T16:14:21Z" name="runTest1" finished-at="2024-10-26T16:14:28Z" duration-ms="7239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest1 -->
+        <test-method signature="runTest2()[pri:0, instance:com_jenkins_serires.SampleTest@74287ea3]" started-at="2024-10-26T16:14:28Z" name="runTest2" finished-at="2024-10-26T16:14:28Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runTest2 -->
+      </class> <!-- com_jenkins_serires.SampleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
